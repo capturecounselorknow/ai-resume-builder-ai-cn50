@@ -1,4 +1,4 @@
-# 
+# Profesional AI Resume Builder scripts. Con toma de decisiones automatizada y aprendizaje por transferencia — optimizado para el máximo rendimiento.
 
 
 
